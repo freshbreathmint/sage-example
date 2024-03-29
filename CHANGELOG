@@ -1,0 +1,12 @@
+# Version History
+
+## IN DEVELOPMENT
+
+N/A
+
+## Version 0.0.1
+
+Changes:
+    - Added Sage as a git submodule.
+    - Set up project files (CHANGELOG, LICENSE, README, TODO).
+    - Started example application project.
