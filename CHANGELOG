@@ -2,7 +2,8 @@
 
 ## IN DEVELOPMENT
 
-N/A
+Changes:
+    - Moved Rust library to it's own folder. (/example-application)
 
 ## Version 0.0.1
 
