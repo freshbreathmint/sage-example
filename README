@@ -1,0 +1,9 @@
+# Sage Example Application
+
+## About
+
+This is an example application using Sage.
+
+The current scope of this project is simply to faciliate the design process and creation of the Sage's API and to help design how applications using Sage will operate in the future.
+
+The application will serve relatively little purpose, simply defining a single simple function to be called during runtime. After this, application will be developed further, utilizing an API to access functions from Sage, and adding a configuration stage to set up the engine to suit the application's needs.
